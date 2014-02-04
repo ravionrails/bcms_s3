@@ -5,7 +5,7 @@ require "bcms_s3/version"
 
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |s|
-  s.name        = "bcms_s3"
+  s.name        = "bcms_aws_s3"
   s.version     = BcmsS3::VERSION
   s.authors     = ["BrowserMedia", "Anthony Underwood", "Neil Middleton"]
   s.email       = %q{github@browsermedia.com}
